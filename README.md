@@ -1,11 +1,11 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+<!-- ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed) -->
 
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando Análise e desenvolvimento de sistemas na UTFPR.
+- 💼 Trabalhando como Desenvolvedor full stack na IDS.
+- 🌱 Aprendendo mais sobre Java.
 
 ## Minhas Skills
 
@@ -45,8 +45,8 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/MatheusDellaVechia" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusDellaVechia&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
