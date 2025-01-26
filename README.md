@@ -38,9 +38,9 @@
 <a href="https://github.com/MatheusDellaVechia" title="Perfil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusDellaVechia&theme=dracula&show_icons=true" />
 </a>
-
+<!--
 ## Onde me encontrar
-
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/matheus-h-della-vechia/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](matheusdellavechia00@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/MatheusDellaVechia))
+-->
