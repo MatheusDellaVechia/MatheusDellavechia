@@ -4,8 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e desenvolvimento de sistemas na UTFPR.
-- 💼 Trabalhando como Desenvolvedor full stack na IDS.
-- 🌱 Aprendendo mais sobre Java.
+- Desenvolvedor de software at DB1
 
 ## Minhas Skills
 
