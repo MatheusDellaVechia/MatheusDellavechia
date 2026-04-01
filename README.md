@@ -1,10 +1,5 @@
-<!-- ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed) -->
 
-## Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e desenvolvimento de sistemas na UTFPR.
-- Desenvolvedor de software at DB1
+ Software Developer at DB1
 
 ## Minhas Skills
 
