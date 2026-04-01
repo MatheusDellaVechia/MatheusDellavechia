@@ -1,7 +1,7 @@
 
  Software Developer at DB1
 
-## Minhas Skills
+<!--## Minhas Skills
 
 **Aplicações e dados**
 
